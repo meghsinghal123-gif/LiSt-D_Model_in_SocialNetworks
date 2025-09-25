@@ -1,1 +1,5 @@
-This project aims to develop a diffusion model for weighted social networks, addressing a gap in traditional models that typically only consider the binary state of relationships between nodes. While existing models treat edges as simply existing or not, real-world social networks are inherently weighted, with edge weights reflecting the strength of the link between connecting nodes. To better capture these dynamics, we propose the Link Strength Diffusion (LiSt-D) model, which incorporates the strength of shared relation to determine the probability of diffusion between social actors. 
+Introduction : Here, you find the source code for the approach proposed in the article "Link Strength Diffusion Model for Influence Diffusion in Weighted Social Networks” by Megh Singhal and Bhawna Saxena for currently under review at Intelligent Decision Technologies.
+
+Requirements : • Python • Anaconda • Windows 10 • Install minepy package
+
+How to run it : • Load the datasets • Execute the code in sequence • Obtain the results 
